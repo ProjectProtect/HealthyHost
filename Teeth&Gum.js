@@ -14,14 +14,14 @@ const { height } = Dimensions.get('window');
 
 export default class TeethGumScreen extends React.PureComponent {
 
-//creates audio player as state for whole component
-p: Player | null;
+  //creates audio player as state for whole component
+  p: Player | null;
 
-//an object that contains the settings necessary for the audio player to function properly
-playbackOptions = {
-  autoDestroy: false,
-  continuesToPlayInBackground: false
-};
+  //an object that contains the settings necessary for the audio player to function properly
+  playbackOptions = {
+    autoDestroy: false,
+    continuesToPlayInBackground: false
+  };
 
   static navigationOptions = () => ({
     title: 'Healthy Host',
@@ -31,34 +31,28 @@ playbackOptions = {
     }
   });
 
-//function will retrieve the saved language preference of the application and set it into the "string" variable
-retrieveLanguage = async () => {
-  try {
-    string = await AsyncStorage.getItem('language');
-  } catch (error) {
-    alert(error);
+  //function will retrieve the saved language preference of the application and set it into the "string" variable
+  retrieveLanguage = async () => {
+    try {
+      string = await AsyncStorage.getItem('language');
+    } catch (error) {
+      alert(error);
+    }
   }
-}
 
-//will destroy the player once the user leaves the screen
-componentWillUnmount() {
-  this.p.destroy();
-}
+  //will destroy the player once the user leaves the screen
+  componentWillUnmount() {
+    this.p.destroy();
+  }
 
-
-  //This funciton only applies to the "Hmong" language for now
   makeAudioButtons = () => {
-    //var string = I18n.locale;
-
-    //var n = string.localeCompare("hmn");
 
     Output = []
 
-    //if (n == 0) {
-      Output.push(<Button key={0} onPress={() => this.p.play()} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Play</Text></Button>);
-      Output.push(<Button key={1} onPress={() => this.p.pause()} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Pause</Text></Button>);
-      Output.push(<Button key={2} onPress={() => this.p.stop()} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Stop</Text></Button>);
-    //}
+    Output.push(<Button key={0} onPress={() => this.p.play()} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Play</Text></Button>);
+    Output.push(<Button key={1} onPress={() => this.p.pause()} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Pause</Text></Button>);
+    Output.push(<Button key={2} onPress={() => this.p.stop()} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Stop</Text></Button>);
+
     return Output;
   };
 
@@ -90,8 +84,6 @@ componentWillUnmount() {
 
   render() {
     this.retrieveLanguage();
-
-const { navigation } = this.props;
 
     //creates variable named "audio" and concatinates "string" with temporary modified version of the disease parameter
     var audio = string + "_teeth_gum.aac";
