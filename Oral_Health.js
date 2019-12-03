@@ -31,7 +31,7 @@ export default class OralHealthScreen extends React.PureComponent {
           <Button onPress={() => this.props.navigation.navigate("Diseases")} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '90%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>{I18n.t('Text.Oral_Menu_Choices.0')}</Text></Button>
           <Button onPress={() => this.props.navigation.navigate("Facts")} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '90%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>{I18n.t('Text.Oral_Menu_Choices.1')}</Text></Button>
           <Button onPress={() => this.props.navigation.navigate("Steps for Good Hygiene")} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '90%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>{I18n.t('Text.Oral_Menu_Choices.2')}</Text></Button>
-          <Button onPress={() => this.props.navigation.navigate("Dentist Locations")} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '90%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>{I18n.t('Text.Oral_Menu_Choices.3')}</Text></Button>
+          <Button onPress={() => this.props.navigation.navigate("Dentist List")} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '90%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>{I18n.t('Text.Oral_Menu_Choices.3')}</Text></Button>
 
         </View>
       </ScrollView>
