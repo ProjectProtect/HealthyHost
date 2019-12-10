@@ -151,6 +151,7 @@ export default class HomeScreen extends React.PureComponent {
       let language = await AsyncStorage.getItem('language');
       if (language == null) {
         this.setState({ currentLanguage: "en" });
+        await AsyncStorage.setItem('language', "en");
       }
       else {
         this.setState({ currentLanguage: language });

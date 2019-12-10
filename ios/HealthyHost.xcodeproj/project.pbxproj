@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* HealthyHostTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* HealthyHostTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
@@ -47,6 +46,81 @@
 		CE4FD30823703DD300C20D58 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE4FD2EB23703DD200C20D58 /* libRNVectorIcons.a */; };
 		CE4FD30923703DD300C20D58 /* libYoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE4FD2EC23703DD200C20D58 /* libYoga.a */; };
 		CE531C582371FA9A001E056F /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
+		CEEE4EC923A0163B00901217 /* spa_often_dentist.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E7E23A0163600901217 /* spa_often_dentist.aac */; };
+		CEEE4ECA23A0163B00901217 /* spa_uso_de_antibioticos_correcto.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E7F23A0163600901217 /* spa_uso_de_antibioticos_correcto.aac */; };
+		CEEE4ECB23A0163B00901217 /* en_titlevi.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8023A0163700901217 /* en_titlevi.aac */; };
+		CEEE4ECC23A0163B00901217 /* en_gingivitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8123A0163700901217 /* en_gingivitis.aac */; };
+		CEEE4ECD23A0163B00901217 /* en_background.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8223A0163700901217 /* en_background.aac */; };
+		CEEE4ECE23A0163B00901217 /* en_amoxicillin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8323A0163700901217 /* en_amoxicillin.aac */; };
+		CEEE4ECF23A0163B00901217 /* spa_mastitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8423A0163700901217 /* spa_mastitis.aac */; };
+		CEEE4ED023A0163B00901217 /* en_impetigo.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8523A0163700901217 /* en_impetigo.aac */; };
+		CEEE4ED123A0163B00901217 /* spa_enfermedad_de_lyme.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8623A0163700901217 /* spa_enfermedad_de_lyme.aac */; };
+		CEEE4ED223A0163B00901217 /* en_urinary_tract_infection.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8723A0163700901217 /* en_urinary_tract_infection.aac */; };
+		CEEE4ED323A0163B00901217 /* spa_clamidia.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8823A0163700901217 /* spa_clamidia.aac */; };
+		CEEE4ED423A0163B00901217 /* spa_periodontitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8923A0163700901217 /* spa_periodontitis.aac */; };
+		CEEE4ED523A0163B00901217 /* spa_preguntas_para_su_doctor.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8A23A0163700901217 /* spa_preguntas_para_su_doctor.aac */; };
+		CEEE4ED623A0163B00901217 /* spa_doxiciclina.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8B23A0163700901217 /* spa_doxiciclina.aac */; };
+		CEEE4ED723A0163B00901217 /* en_levaquin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8C23A0163700901217 /* en_levaquin.aac */; };
+		CEEE4ED823A0163B00901217 /* spa_ceftriaxona.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8D23A0163700901217 /* spa_ceftriaxona.aac */; };
+		CEEE4ED923A0163B00901217 /* en_questions_for_your_doctor.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8E23A0163700901217 /* en_questions_for_your_doctor.aac */; };
+		CEEE4EDA23A0163B00901217 /* en_oral_cancer.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E8F23A0163700901217 /* en_oral_cancer.aac */; };
+		CEEE4EDB23A0163B00901217 /* en_periodontitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9023A0163700901217 /* en_periodontitis.aac */; };
+		CEEE4EDC23A0163B00901217 /* en_good_hygiene.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9123A0163700901217 /* en_good_hygiene.aac */; };
+		CEEE4EDD23A0163B00901217 /* spa_infeccion_en_el_oido.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9223A0163700901217 /* spa_infeccion_en_el_oido.aac */; };
+		CEEE4EDE23A0163B00901217 /* en_h_pylori.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9323A0163700901217 /* en_h_pylori.aac */; };
+		CEEE4EDF23A0163B00901217 /* en_doxycycline.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9423A0163800901217 /* en_doxycycline.aac */; };
+		CEEE4EE023A0163B00901217 /* en_type_2_herpes.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9523A0163800901217 /* en_type_2_herpes.aac */; };
+		CEEE4EE123A0163B00901217 /* en_cephalexin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9623A0163800901217 /* en_cephalexin.aac */; };
+		CEEE4EE223A0163B00901217 /* spa_improper_usage.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9723A0163800901217 /* spa_improper_usage.aac */; };
+		CEEE4EE323A0163B00901217 /* en_improper_usage.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9823A0163800901217 /* en_improper_usage.aac */; };
+		CEEE4EE423A0163B00901217 /* spa_teeth_gum.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9923A0163800901217 /* spa_teeth_gum.aac */; };
+		CEEE4EE523A0163B00901217 /* spa_eritromicina.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9A23A0163800901217 /* spa_eritromicina.aac */; };
+		CEEE4EE623A0163B00901217 /* en_respiratory_syncytial_virus_rsv.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9B23A0163800901217 /* en_respiratory_syncytial_virus_rsv.aac */; };
+		CEEE4EE723A0163B00901217 /* spa_titlevi.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9C23A0163800901217 /* spa_titlevi.aac */; };
+		CEEE4EE823A0163B00901217 /* spa_penicilina_g.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9D23A0163800901217 /* spa_penicilina_g.aac */; };
+		CEEE4EE923A0163B00901217 /* en_azithromycin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9E23A0163800901217 /* en_azithromycin.aac */; };
+		CEEE4EEA23A0163B00901217 /* spa_faringitis_estreptococica.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4E9F23A0163800901217 /* spa_faringitis_estreptococica.aac */; };
+		CEEE4EEB23A0163B00901217 /* spa_helicobacter_pylori.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA023A0163800901217 /* spa_helicobacter_pylori.aac */; };
+		CEEE4EEC23A0163B00901217 /* spa_azitromicina.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA123A0163800901217 /* spa_azitromicina.aac */; };
+		CEEE4EED23A0163B00901217 /* en_ofloxacin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA223A0163800901217 /* en_ofloxacin.aac */; };
+		CEEE4EEE23A0163B00901217 /* spa_metronidazol.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA323A0163800901217 /* spa_metronidazol.aac */; };
+		CEEE4EEF23A0163B00901217 /* spa_infeccion_del_tracto_urinario.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA423A0163900901217 /* spa_infeccion_del_tracto_urinario.aac */; };
+		CEEE4EF023A0163B00901217 /* spa_herpes_tipo_2.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA523A0163900901217 /* spa_herpes_tipo_2.aac */; };
+		CEEE4EF123A0163B00901217 /* spa_good_hygiene.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA623A0163900901217 /* spa_good_hygiene.aac */; };
+		CEEE4EF223A0163B00901217 /* en_teeth_gum.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA723A0163900901217 /* en_teeth_gum.aac */; };
+		CEEE4EF323A0163B00901217 /* en_tooth_decay.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA823A0163900901217 /* en_tooth_decay.aac */; };
+		CEEE4EF423A0163B00901217 /* en_metronidazole.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EA923A0163900901217 /* en_metronidazole.aac */; };
+		CEEE4EF523A0163B00901217 /* spa_ofloxacino.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EAA23A0163900901217 /* spa_ofloxacino.aac */; };
+		CEEE4EF623A0163B00901217 /* spa_flucloxacilina.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EAB23A0163900901217 /* spa_flucloxacilina.aac */; };
+		CEEE4EF723A0163B00901217 /* spa_impetigo.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EAC23A0163900901217 /* spa_impetigo.aac */; };
+		CEEE4EF823A0163B00901217 /* en_proper_usage.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EAD23A0163900901217 /* en_proper_usage.aac */; };
+		CEEE4EF923A0163B00901217 /* en_tooth_loss.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EAE23A0163900901217 /* en_tooth_loss.aac */; };
+		CEEE4EFA23A0163B00901217 /* spa_gingivitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EAF23A0163900901217 /* spa_gingivitis.aac */; };
+		CEEE4EFB23A0163B00901217 /* spa_fiebre_del_valle.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB023A0163900901217 /* spa_fiebre_del_valle.aac */; };
+		CEEE4EFC23A0163B00901217 /* spa_amoxicilina.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB123A0163900901217 /* spa_amoxicilina.aac */; };
+		CEEE4EFD23A0163B00901217 /* en_mononucleosis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB223A0163900901217 /* en_mononucleosis.aac */; };
+		CEEE4EFE23A0163B00901217 /* en_penecillin_g.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB323A0163900901217 /* en_penecillin_g.aac */; };
+		CEEE4EFF23A0163B00901217 /* en_ear_infection.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB423A0163A00901217 /* en_ear_infection.aac */; };
+		CEEE4F0023A0163B00901217 /* en_valley_fever.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB523A0163A00901217 /* en_valley_fever.aac */; };
+		CEEE4F0123A0163B00901217 /* en_erythromycin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB623A0163A00901217 /* en_erythromycin.aac */; };
+		CEEE4F0223A0163B00901217 /* en_lyme_disease.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB723A0163A00901217 /* en_lyme_disease.aac */; };
+		CEEE4F0323A0163B00901217 /* en_strep_throat.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB823A0163A00901217 /* en_strep_throat.aac */; };
+		CEEE4F0423A0163B00901217 /* spa_perdida_de_dientes.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EB923A0163A00901217 /* spa_perdida_de_dientes.aac */; };
+		CEEE4F0523A0163B00901217 /* en_flucloxacillin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EBA23A0163A00901217 /* en_flucloxacillin.aac */; };
+		CEEE4F0623A0163B00901217 /* en_mastitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EBB23A0163A00901217 /* en_mastitis.aac */; };
+		CEEE4F0723A0163B00901217 /* spa_virus_sincicial_respiratorio_vsr.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EBC23A0163A00901217 /* spa_virus_sincicial_respiratorio_vsr.aac */; };
+		CEEE4F0823A0163B00901217 /* spa_mononucleosis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EBD23A0163A00901217 /* spa_mononucleosis.aac */; };
+		CEEE4F0923A0163B00901217 /* spa_levaquin.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EBE23A0163A00901217 /* spa_levaquin.aac */; };
+		CEEE4F0A23A0163B00901217 /* en_necrotizing_fasciitis.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EBF23A0163A00901217 /* en_necrotizing_fasciitis.aac */; };
+		CEEE4F0B23A0163B00901217 /* spa_cefalexina.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC023A0163A00901217 /* spa_cefalexina.aac */; };
+		CEEE4F0C23A0163B00901217 /* spa_fascitis_necrotizante.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC123A0163A00901217 /* spa_fascitis_necrotizante.aac */; };
+		CEEE4F0D23A0163B00901217 /* spa_metronizadol.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC223A0163A00901217 /* spa_metronizadol.aac */; };
+		CEEE4F0E23A0163B00901217 /* spa_uso_de_antibioticos_incorrecto.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC323A0163A00901217 /* spa_uso_de_antibioticos_incorrecto.aac */; };
+		CEEE4F0F23A0163B00901217 /* spa_proper_usage.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC423A0163A00901217 /* spa_proper_usage.aac */; };
+		CEEE4F1023A0163B00901217 /* spa_la_caries_dental.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC523A0163B00901217 /* spa_la_caries_dental.aac */; };
+		CEEE4F1123A0163B00901217 /* en_often_dentist.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC623A0163B00901217 /* en_often_dentist.aac */; };
+		CEEE4F1223A0163B00901217 /* en_ceftriaxone.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC723A0163B00901217 /* en_ceftriaxone.aac */; };
+		CEEE4F1323A0163B00901217 /* en_chlamydia.aac in Resources */ = {isa = PBXBuildFile; fileRef = CEEE4EC823A0163B00901217 /* en_chlamydia.aac */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +130,13 @@
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
 			remoteInfo = HealthyHost;
+		};
+		CEEE4F1823A01B3300901217 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CEEE4F1423A01B3300901217 /* ReactNativeAudioToolkit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5E8FD9831D269F5D00CF68CC;
+			remoteInfo = ReactNativeAudioToolkit;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -140,6 +221,82 @@
 		CE4FD2EC23703DD200C20D58 /* libYoga.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libYoga.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4FD30A2370419A00C20D58 /* HealthyHost.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = HealthyHost.entitlements; path = HealthyHost/HealthyHost.entitlements; sourceTree = "<group>"; };
 		CEB05C58F4964AB99253B6B7 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		CEEE4E7E23A0163600901217 /* spa_often_dentist.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_often_dentist.aac; path = HealthyHost/spa_often_dentist.aac; sourceTree = "<group>"; };
+		CEEE4E7F23A0163600901217 /* spa_uso_de_antibioticos_correcto.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_uso_de_antibioticos_correcto.aac; path = HealthyHost/spa_uso_de_antibioticos_correcto.aac; sourceTree = "<group>"; };
+		CEEE4E8023A0163700901217 /* en_titlevi.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_titlevi.aac; path = HealthyHost/en_titlevi.aac; sourceTree = "<group>"; };
+		CEEE4E8123A0163700901217 /* en_gingivitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_gingivitis.aac; path = HealthyHost/en_gingivitis.aac; sourceTree = "<group>"; };
+		CEEE4E8223A0163700901217 /* en_background.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_background.aac; path = HealthyHost/en_background.aac; sourceTree = "<group>"; };
+		CEEE4E8323A0163700901217 /* en_amoxicillin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_amoxicillin.aac; path = HealthyHost/en_amoxicillin.aac; sourceTree = "<group>"; };
+		CEEE4E8423A0163700901217 /* spa_mastitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_mastitis.aac; path = HealthyHost/spa_mastitis.aac; sourceTree = "<group>"; };
+		CEEE4E8523A0163700901217 /* en_impetigo.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_impetigo.aac; path = HealthyHost/en_impetigo.aac; sourceTree = "<group>"; };
+		CEEE4E8623A0163700901217 /* spa_enfermedad_de_lyme.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_enfermedad_de_lyme.aac; path = HealthyHost/spa_enfermedad_de_lyme.aac; sourceTree = "<group>"; };
+		CEEE4E8723A0163700901217 /* en_urinary_tract_infection.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_urinary_tract_infection.aac; path = HealthyHost/en_urinary_tract_infection.aac; sourceTree = "<group>"; };
+		CEEE4E8823A0163700901217 /* spa_clamidia.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_clamidia.aac; path = HealthyHost/spa_clamidia.aac; sourceTree = "<group>"; };
+		CEEE4E8923A0163700901217 /* spa_periodontitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_periodontitis.aac; path = HealthyHost/spa_periodontitis.aac; sourceTree = "<group>"; };
+		CEEE4E8A23A0163700901217 /* spa_preguntas_para_su_doctor.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_preguntas_para_su_doctor.aac; path = HealthyHost/spa_preguntas_para_su_doctor.aac; sourceTree = "<group>"; };
+		CEEE4E8B23A0163700901217 /* spa_doxiciclina.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_doxiciclina.aac; path = HealthyHost/spa_doxiciclina.aac; sourceTree = "<group>"; };
+		CEEE4E8C23A0163700901217 /* en_levaquin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_levaquin.aac; path = HealthyHost/en_levaquin.aac; sourceTree = "<group>"; };
+		CEEE4E8D23A0163700901217 /* spa_ceftriaxona.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_ceftriaxona.aac; path = HealthyHost/spa_ceftriaxona.aac; sourceTree = "<group>"; };
+		CEEE4E8E23A0163700901217 /* en_questions_for_your_doctor.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_questions_for_your_doctor.aac; path = HealthyHost/en_questions_for_your_doctor.aac; sourceTree = "<group>"; };
+		CEEE4E8F23A0163700901217 /* en_oral_cancer.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_oral_cancer.aac; path = HealthyHost/en_oral_cancer.aac; sourceTree = "<group>"; };
+		CEEE4E9023A0163700901217 /* en_periodontitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_periodontitis.aac; path = HealthyHost/en_periodontitis.aac; sourceTree = "<group>"; };
+		CEEE4E9123A0163700901217 /* en_good_hygiene.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_good_hygiene.aac; path = HealthyHost/en_good_hygiene.aac; sourceTree = "<group>"; };
+		CEEE4E9223A0163700901217 /* spa_infeccion_en_el_oido.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_infeccion_en_el_oido.aac; path = HealthyHost/spa_infeccion_en_el_oido.aac; sourceTree = "<group>"; };
+		CEEE4E9323A0163700901217 /* en_h_pylori.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_h_pylori.aac; path = HealthyHost/en_h_pylori.aac; sourceTree = "<group>"; };
+		CEEE4E9423A0163800901217 /* en_doxycycline.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_doxycycline.aac; path = HealthyHost/en_doxycycline.aac; sourceTree = "<group>"; };
+		CEEE4E9523A0163800901217 /* en_type_2_herpes.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_type_2_herpes.aac; path = HealthyHost/en_type_2_herpes.aac; sourceTree = "<group>"; };
+		CEEE4E9623A0163800901217 /* en_cephalexin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_cephalexin.aac; path = HealthyHost/en_cephalexin.aac; sourceTree = "<group>"; };
+		CEEE4E9723A0163800901217 /* spa_improper_usage.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_improper_usage.aac; path = HealthyHost/spa_improper_usage.aac; sourceTree = "<group>"; };
+		CEEE4E9823A0163800901217 /* en_improper_usage.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_improper_usage.aac; path = HealthyHost/en_improper_usage.aac; sourceTree = "<group>"; };
+		CEEE4E9923A0163800901217 /* spa_teeth_gum.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_teeth_gum.aac; path = HealthyHost/spa_teeth_gum.aac; sourceTree = "<group>"; };
+		CEEE4E9A23A0163800901217 /* spa_eritromicina.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_eritromicina.aac; path = HealthyHost/spa_eritromicina.aac; sourceTree = "<group>"; };
+		CEEE4E9B23A0163800901217 /* en_respiratory_syncytial_virus_rsv.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_respiratory_syncytial_virus_rsv.aac; path = HealthyHost/en_respiratory_syncytial_virus_rsv.aac; sourceTree = "<group>"; };
+		CEEE4E9C23A0163800901217 /* spa_titlevi.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_titlevi.aac; path = HealthyHost/spa_titlevi.aac; sourceTree = "<group>"; };
+		CEEE4E9D23A0163800901217 /* spa_penicilina_g.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_penicilina_g.aac; path = HealthyHost/spa_penicilina_g.aac; sourceTree = "<group>"; };
+		CEEE4E9E23A0163800901217 /* en_azithromycin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_azithromycin.aac; path = HealthyHost/en_azithromycin.aac; sourceTree = "<group>"; };
+		CEEE4E9F23A0163800901217 /* spa_faringitis_estreptococica.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_faringitis_estreptococica.aac; path = HealthyHost/spa_faringitis_estreptococica.aac; sourceTree = "<group>"; };
+		CEEE4EA023A0163800901217 /* spa_helicobacter_pylori.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_helicobacter_pylori.aac; path = HealthyHost/spa_helicobacter_pylori.aac; sourceTree = "<group>"; };
+		CEEE4EA123A0163800901217 /* spa_azitromicina.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_azitromicina.aac; path = HealthyHost/spa_azitromicina.aac; sourceTree = "<group>"; };
+		CEEE4EA223A0163800901217 /* en_ofloxacin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_ofloxacin.aac; path = HealthyHost/en_ofloxacin.aac; sourceTree = "<group>"; };
+		CEEE4EA323A0163800901217 /* spa_metronidazol.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_metronidazol.aac; path = HealthyHost/spa_metronidazol.aac; sourceTree = "<group>"; };
+		CEEE4EA423A0163900901217 /* spa_infeccion_del_tracto_urinario.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_infeccion_del_tracto_urinario.aac; path = HealthyHost/spa_infeccion_del_tracto_urinario.aac; sourceTree = "<group>"; };
+		CEEE4EA523A0163900901217 /* spa_herpes_tipo_2.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_herpes_tipo_2.aac; path = HealthyHost/spa_herpes_tipo_2.aac; sourceTree = "<group>"; };
+		CEEE4EA623A0163900901217 /* spa_good_hygiene.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_good_hygiene.aac; path = HealthyHost/spa_good_hygiene.aac; sourceTree = "<group>"; };
+		CEEE4EA723A0163900901217 /* en_teeth_gum.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_teeth_gum.aac; path = HealthyHost/en_teeth_gum.aac; sourceTree = "<group>"; };
+		CEEE4EA823A0163900901217 /* en_tooth_decay.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_tooth_decay.aac; path = HealthyHost/en_tooth_decay.aac; sourceTree = "<group>"; };
+		CEEE4EA923A0163900901217 /* en_metronidazole.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_metronidazole.aac; path = HealthyHost/en_metronidazole.aac; sourceTree = "<group>"; };
+		CEEE4EAA23A0163900901217 /* spa_ofloxacino.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_ofloxacino.aac; path = HealthyHost/spa_ofloxacino.aac; sourceTree = "<group>"; };
+		CEEE4EAB23A0163900901217 /* spa_flucloxacilina.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_flucloxacilina.aac; path = HealthyHost/spa_flucloxacilina.aac; sourceTree = "<group>"; };
+		CEEE4EAC23A0163900901217 /* spa_impetigo.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_impetigo.aac; path = HealthyHost/spa_impetigo.aac; sourceTree = "<group>"; };
+		CEEE4EAD23A0163900901217 /* en_proper_usage.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_proper_usage.aac; path = HealthyHost/en_proper_usage.aac; sourceTree = "<group>"; };
+		CEEE4EAE23A0163900901217 /* en_tooth_loss.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_tooth_loss.aac; path = HealthyHost/en_tooth_loss.aac; sourceTree = "<group>"; };
+		CEEE4EAF23A0163900901217 /* spa_gingivitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_gingivitis.aac; path = HealthyHost/spa_gingivitis.aac; sourceTree = "<group>"; };
+		CEEE4EB023A0163900901217 /* spa_fiebre_del_valle.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_fiebre_del_valle.aac; path = HealthyHost/spa_fiebre_del_valle.aac; sourceTree = "<group>"; };
+		CEEE4EB123A0163900901217 /* spa_amoxicilina.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_amoxicilina.aac; path = HealthyHost/spa_amoxicilina.aac; sourceTree = "<group>"; };
+		CEEE4EB223A0163900901217 /* en_mononucleosis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_mononucleosis.aac; path = HealthyHost/en_mononucleosis.aac; sourceTree = "<group>"; };
+		CEEE4EB323A0163900901217 /* en_penecillin_g.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_penecillin_g.aac; path = HealthyHost/en_penecillin_g.aac; sourceTree = "<group>"; };
+		CEEE4EB423A0163A00901217 /* en_ear_infection.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_ear_infection.aac; path = HealthyHost/en_ear_infection.aac; sourceTree = "<group>"; };
+		CEEE4EB523A0163A00901217 /* en_valley_fever.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_valley_fever.aac; path = HealthyHost/en_valley_fever.aac; sourceTree = "<group>"; };
+		CEEE4EB623A0163A00901217 /* en_erythromycin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_erythromycin.aac; path = HealthyHost/en_erythromycin.aac; sourceTree = "<group>"; };
+		CEEE4EB723A0163A00901217 /* en_lyme_disease.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_lyme_disease.aac; path = HealthyHost/en_lyme_disease.aac; sourceTree = "<group>"; };
+		CEEE4EB823A0163A00901217 /* en_strep_throat.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_strep_throat.aac; path = HealthyHost/en_strep_throat.aac; sourceTree = "<group>"; };
+		CEEE4EB923A0163A00901217 /* spa_perdida_de_dientes.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_perdida_de_dientes.aac; path = HealthyHost/spa_perdida_de_dientes.aac; sourceTree = "<group>"; };
+		CEEE4EBA23A0163A00901217 /* en_flucloxacillin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_flucloxacillin.aac; path = HealthyHost/en_flucloxacillin.aac; sourceTree = "<group>"; };
+		CEEE4EBB23A0163A00901217 /* en_mastitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_mastitis.aac; path = HealthyHost/en_mastitis.aac; sourceTree = "<group>"; };
+		CEEE4EBC23A0163A00901217 /* spa_virus_sincicial_respiratorio_vsr.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_virus_sincicial_respiratorio_vsr.aac; path = HealthyHost/spa_virus_sincicial_respiratorio_vsr.aac; sourceTree = "<group>"; };
+		CEEE4EBD23A0163A00901217 /* spa_mononucleosis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_mononucleosis.aac; path = HealthyHost/spa_mononucleosis.aac; sourceTree = "<group>"; };
+		CEEE4EBE23A0163A00901217 /* spa_levaquin.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_levaquin.aac; path = HealthyHost/spa_levaquin.aac; sourceTree = "<group>"; };
+		CEEE4EBF23A0163A00901217 /* en_necrotizing_fasciitis.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_necrotizing_fasciitis.aac; path = HealthyHost/en_necrotizing_fasciitis.aac; sourceTree = "<group>"; };
+		CEEE4EC023A0163A00901217 /* spa_cefalexina.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_cefalexina.aac; path = HealthyHost/spa_cefalexina.aac; sourceTree = "<group>"; };
+		CEEE4EC123A0163A00901217 /* spa_fascitis_necrotizante.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_fascitis_necrotizante.aac; path = HealthyHost/spa_fascitis_necrotizante.aac; sourceTree = "<group>"; };
+		CEEE4EC223A0163A00901217 /* spa_metronizadol.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_metronizadol.aac; path = HealthyHost/spa_metronizadol.aac; sourceTree = "<group>"; };
+		CEEE4EC323A0163A00901217 /* spa_uso_de_antibioticos_incorrecto.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_uso_de_antibioticos_incorrecto.aac; path = HealthyHost/spa_uso_de_antibioticos_incorrecto.aac; sourceTree = "<group>"; };
+		CEEE4EC423A0163A00901217 /* spa_proper_usage.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_proper_usage.aac; path = HealthyHost/spa_proper_usage.aac; sourceTree = "<group>"; };
+		CEEE4EC523A0163B00901217 /* spa_la_caries_dental.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = spa_la_caries_dental.aac; path = HealthyHost/spa_la_caries_dental.aac; sourceTree = "<group>"; };
+		CEEE4EC623A0163B00901217 /* en_often_dentist.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_often_dentist.aac; path = HealthyHost/en_often_dentist.aac; sourceTree = "<group>"; };
+		CEEE4EC723A0163B00901217 /* en_ceftriaxone.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_ceftriaxone.aac; path = HealthyHost/en_ceftriaxone.aac; sourceTree = "<group>"; };
+		CEEE4EC823A0163B00901217 /* en_chlamydia.aac */ = {isa = PBXFileReference; lastKnownFileType = file; name = en_chlamydia.aac; path = HealthyHost/en_chlamydia.aac; sourceTree = "<group>"; };
+		CEEE4F1423A01B3300901217 /* ReactNativeAudioToolkit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeAudioToolkit.xcodeproj; path = "../node_modules/@react-native-community/audio-toolkit/ios/ReactNativeAudioToolkit/ReactNativeAudioToolkit.xcodeproj"; sourceTree = "<group>"; };
 		D133270B5A14EC03D9A99B4E /* Pods-HealthyHost-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HealthyHost-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-HealthyHost-tvOS/Pods-HealthyHost-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		DC41E76AF5DB8F4C51393264 /* Pods-HealthyHost-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HealthyHost-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-HealthyHost-tvOSTests/Pods-HealthyHost-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		E4BE305C155747B09DBCD148 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
@@ -263,6 +420,81 @@
 		13B07FAE1A68108700A75B9A /* HealthyHost */ = {
 			isa = PBXGroup;
 			children = (
+				CEEE4E8323A0163700901217 /* en_amoxicillin.aac */,
+				CEEE4E9E23A0163800901217 /* en_azithromycin.aac */,
+				CEEE4E8223A0163700901217 /* en_background.aac */,
+				CEEE4EC723A0163B00901217 /* en_ceftriaxone.aac */,
+				CEEE4E9623A0163800901217 /* en_cephalexin.aac */,
+				CEEE4EC823A0163B00901217 /* en_chlamydia.aac */,
+				CEEE4E9423A0163800901217 /* en_doxycycline.aac */,
+				CEEE4EB423A0163A00901217 /* en_ear_infection.aac */,
+				CEEE4EB623A0163A00901217 /* en_erythromycin.aac */,
+				CEEE4EBA23A0163A00901217 /* en_flucloxacillin.aac */,
+				CEEE4E8123A0163700901217 /* en_gingivitis.aac */,
+				CEEE4E9123A0163700901217 /* en_good_hygiene.aac */,
+				CEEE4E9323A0163700901217 /* en_h_pylori.aac */,
+				CEEE4E8523A0163700901217 /* en_impetigo.aac */,
+				CEEE4E9823A0163800901217 /* en_improper_usage.aac */,
+				CEEE4E8C23A0163700901217 /* en_levaquin.aac */,
+				CEEE4EB723A0163A00901217 /* en_lyme_disease.aac */,
+				CEEE4EBB23A0163A00901217 /* en_mastitis.aac */,
+				CEEE4EA923A0163900901217 /* en_metronidazole.aac */,
+				CEEE4EB223A0163900901217 /* en_mononucleosis.aac */,
+				CEEE4EBF23A0163A00901217 /* en_necrotizing_fasciitis.aac */,
+				CEEE4EA223A0163800901217 /* en_ofloxacin.aac */,
+				CEEE4EC623A0163B00901217 /* en_often_dentist.aac */,
+				CEEE4E8F23A0163700901217 /* en_oral_cancer.aac */,
+				CEEE4EB323A0163900901217 /* en_penecillin_g.aac */,
+				CEEE4E9023A0163700901217 /* en_periodontitis.aac */,
+				CEEE4EAD23A0163900901217 /* en_proper_usage.aac */,
+				CEEE4E8E23A0163700901217 /* en_questions_for_your_doctor.aac */,
+				CEEE4E9B23A0163800901217 /* en_respiratory_syncytial_virus_rsv.aac */,
+				CEEE4EB823A0163A00901217 /* en_strep_throat.aac */,
+				CEEE4EA723A0163900901217 /* en_teeth_gum.aac */,
+				CEEE4E8023A0163700901217 /* en_titlevi.aac */,
+				CEEE4EA823A0163900901217 /* en_tooth_decay.aac */,
+				CEEE4EAE23A0163900901217 /* en_tooth_loss.aac */,
+				CEEE4E9523A0163800901217 /* en_type_2_herpes.aac */,
+				CEEE4E8723A0163700901217 /* en_urinary_tract_infection.aac */,
+				CEEE4EB523A0163A00901217 /* en_valley_fever.aac */,
+				CEEE4EB123A0163900901217 /* spa_amoxicilina.aac */,
+				CEEE4EA123A0163800901217 /* spa_azitromicina.aac */,
+				CEEE4EC023A0163A00901217 /* spa_cefalexina.aac */,
+				CEEE4E8D23A0163700901217 /* spa_ceftriaxona.aac */,
+				CEEE4E8823A0163700901217 /* spa_clamidia.aac */,
+				CEEE4E8B23A0163700901217 /* spa_doxiciclina.aac */,
+				CEEE4E8623A0163700901217 /* spa_enfermedad_de_lyme.aac */,
+				CEEE4E9A23A0163800901217 /* spa_eritromicina.aac */,
+				CEEE4E9F23A0163800901217 /* spa_faringitis_estreptococica.aac */,
+				CEEE4EC123A0163A00901217 /* spa_fascitis_necrotizante.aac */,
+				CEEE4EB023A0163900901217 /* spa_fiebre_del_valle.aac */,
+				CEEE4EAB23A0163900901217 /* spa_flucloxacilina.aac */,
+				CEEE4EAF23A0163900901217 /* spa_gingivitis.aac */,
+				CEEE4EA623A0163900901217 /* spa_good_hygiene.aac */,
+				CEEE4EA023A0163800901217 /* spa_helicobacter_pylori.aac */,
+				CEEE4EA523A0163900901217 /* spa_herpes_tipo_2.aac */,
+				CEEE4EAC23A0163900901217 /* spa_impetigo.aac */,
+				CEEE4E9723A0163800901217 /* spa_improper_usage.aac */,
+				CEEE4EA423A0163900901217 /* spa_infeccion_del_tracto_urinario.aac */,
+				CEEE4E9223A0163700901217 /* spa_infeccion_en_el_oido.aac */,
+				CEEE4EC523A0163B00901217 /* spa_la_caries_dental.aac */,
+				CEEE4EBE23A0163A00901217 /* spa_levaquin.aac */,
+				CEEE4E8423A0163700901217 /* spa_mastitis.aac */,
+				CEEE4EA323A0163800901217 /* spa_metronidazol.aac */,
+				CEEE4EC223A0163A00901217 /* spa_metronizadol.aac */,
+				CEEE4EBD23A0163A00901217 /* spa_mononucleosis.aac */,
+				CEEE4EAA23A0163900901217 /* spa_ofloxacino.aac */,
+				CEEE4E7E23A0163600901217 /* spa_often_dentist.aac */,
+				CEEE4E9D23A0163800901217 /* spa_penicilina_g.aac */,
+				CEEE4EB923A0163A00901217 /* spa_perdida_de_dientes.aac */,
+				CEEE4E8923A0163700901217 /* spa_periodontitis.aac */,
+				CEEE4E8A23A0163700901217 /* spa_preguntas_para_su_doctor.aac */,
+				CEEE4EC423A0163A00901217 /* spa_proper_usage.aac */,
+				CEEE4E9923A0163800901217 /* spa_teeth_gum.aac */,
+				CEEE4E9C23A0163800901217 /* spa_titlevi.aac */,
+				CEEE4E7F23A0163600901217 /* spa_uso_de_antibioticos_correcto.aac */,
+				CEEE4EC323A0163A00901217 /* spa_uso_de_antibioticos_incorrecto.aac */,
+				CEEE4EBC23A0163A00901217 /* spa_virus_sincicial_respiratorio_vsr.aac */,
 				CE4FD30A2370419A00C20D58 /* HealthyHost.entitlements */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -319,6 +551,7 @@
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				CEEE4F1423A01B3300901217 /* ReactNativeAudioToolkit.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -344,6 +577,14 @@
 			children = (
 				13B07F961A680F5B00A75B9A /* HealthyHost.app */,
 				00E356EE1AD99517003FC87E /* HealthyHostTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CEEE4F1523A01B3300901217 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CEEE4F1923A01B3300901217 /* libReactNativeAudioToolkit.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -436,6 +677,12 @@
 			mainGroup = 83CBB9F61A601CBA00E9B192;
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = CEEE4F1523A01B3300901217 /* Products */;
+					ProjectRef = CEEE4F1423A01B3300901217 /* ReactNativeAudioToolkit.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				13B07F861A680F5B00A75B9A /* HealthyHost */,
@@ -443,6 +690,16 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		CEEE4F1923A01B3300901217 /* libReactNativeAudioToolkit.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libReactNativeAudioToolkit.a;
+			remoteRef = CEEE4F1823A01B3300901217 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		00E356EC1AD99517003FC87E /* Resources */ = {
@@ -456,11 +713,86 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEEE4ECF23A0163B00901217 /* spa_mastitis.aac in Resources */,
+				CEEE4F1323A0163B00901217 /* en_chlamydia.aac in Resources */,
+				CEEE4EFC23A0163B00901217 /* spa_amoxicilina.aac in Resources */,
+				CEEE4EEE23A0163B00901217 /* spa_metronidazol.aac in Resources */,
+				CEEE4F0623A0163B00901217 /* en_mastitis.aac in Resources */,
+				CEEE4EF523A0163B00901217 /* spa_ofloxacino.aac in Resources */,
+				CEEE4ECD23A0163B00901217 /* en_background.aac in Resources */,
+				CEEE4EDF23A0163B00901217 /* en_doxycycline.aac in Resources */,
+				CEEE4EF223A0163B00901217 /* en_teeth_gum.aac in Resources */,
+				CEEE4EE023A0163B00901217 /* en_type_2_herpes.aac in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				CEEE4EE623A0163B00901217 /* en_respiratory_syncytial_virus_rsv.aac in Resources */,
+				CEEE4EDC23A0163B00901217 /* en_good_hygiene.aac in Resources */,
+				CEEE4EF423A0163B00901217 /* en_metronidazole.aac in Resources */,
+				CEEE4ED423A0163B00901217 /* spa_periodontitis.aac in Resources */,
+				CEEE4EF323A0163B00901217 /* en_tooth_decay.aac in Resources */,
+				CEEE4ED023A0163B00901217 /* en_impetigo.aac in Resources */,
+				CEEE4EDD23A0163B00901217 /* spa_infeccion_en_el_oido.aac in Resources */,
+				CEEE4EE223A0163B00901217 /* spa_improper_usage.aac in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				CEEE4EEB23A0163B00901217 /* spa_helicobacter_pylori.aac in Resources */,
+				CEEE4EF923A0163B00901217 /* en_tooth_loss.aac in Resources */,
+				CEEE4ED523A0163B00901217 /* spa_preguntas_para_su_doctor.aac in Resources */,
+				CEEE4F1023A0163B00901217 /* spa_la_caries_dental.aac in Resources */,
+				CEEE4EEC23A0163B00901217 /* spa_azitromicina.aac in Resources */,
+				CEEE4ED823A0163B00901217 /* spa_ceftriaxona.aac in Resources */,
+				CEEE4F0C23A0163B00901217 /* spa_fascitis_necrotizante.aac in Resources */,
 				1B4EA5FF70EF4162A50670F8 /* Roboto_medium.ttf in Resources */,
+				CEEE4EC923A0163B00901217 /* spa_often_dentist.aac in Resources */,
+				CEEE4ECB23A0163B00901217 /* en_titlevi.aac in Resources */,
+				CEEE4EE123A0163B00901217 /* en_cephalexin.aac in Resources */,
+				CEEE4F0423A0163B00901217 /* spa_perdida_de_dientes.aac in Resources */,
+				CEEE4F0A23A0163B00901217 /* en_necrotizing_fasciitis.aac in Resources */,
+				CEEE4F0023A0163B00901217 /* en_valley_fever.aac in Resources */,
 				BCB0574A0D2A4C929BD6B9FB /* Roboto.ttf in Resources */,
+				CEEE4ED623A0163B00901217 /* spa_doxiciclina.aac in Resources */,
+				CEEE4EDE23A0163B00901217 /* en_h_pylori.aac in Resources */,
+				CEEE4EDA23A0163B00901217 /* en_oral_cancer.aac in Resources */,
+				CEEE4EFA23A0163B00901217 /* spa_gingivitis.aac in Resources */,
+				CEEE4EED23A0163B00901217 /* en_ofloxacin.aac in Resources */,
+				CEEE4EF623A0163B00901217 /* spa_flucloxacilina.aac in Resources */,
+				CEEE4EDB23A0163B00901217 /* en_periodontitis.aac in Resources */,
+				CEEE4EF023A0163B00901217 /* spa_herpes_tipo_2.aac in Resources */,
+				CEEE4F0B23A0163B00901217 /* spa_cefalexina.aac in Resources */,
+				CEEE4ED123A0163B00901217 /* spa_enfermedad_de_lyme.aac in Resources */,
+				CEEE4ED923A0163B00901217 /* en_questions_for_your_doctor.aac in Resources */,
+				CEEE4F1123A0163B00901217 /* en_often_dentist.aac in Resources */,
+				CEEE4EF823A0163B00901217 /* en_proper_usage.aac in Resources */,
+				CEEE4F0823A0163B00901217 /* spa_mononucleosis.aac in Resources */,
+				CEEE4F0F23A0163B00901217 /* spa_proper_usage.aac in Resources */,
+				CEEE4EE923A0163B00901217 /* en_azithromycin.aac in Resources */,
+				CEEE4EF123A0163B00901217 /* spa_good_hygiene.aac in Resources */,
+				CEEE4F0923A0163B00901217 /* spa_levaquin.aac in Resources */,
+				CEEE4EE523A0163B00901217 /* spa_eritromicina.aac in Resources */,
+				CEEE4F0D23A0163B00901217 /* spa_metronizadol.aac in Resources */,
+				CEEE4ED323A0163B00901217 /* spa_clamidia.aac in Resources */,
+				CEEE4ED223A0163B00901217 /* en_urinary_tract_infection.aac in Resources */,
+				CEEE4F0123A0163B00901217 /* en_erythromycin.aac in Resources */,
+				CEEE4ECA23A0163B00901217 /* spa_uso_de_antibioticos_correcto.aac in Resources */,
+				CEEE4F0723A0163B00901217 /* spa_virus_sincicial_respiratorio_vsr.aac in Resources */,
+				CEEE4EFD23A0163B00901217 /* en_mononucleosis.aac in Resources */,
+				CEEE4ECC23A0163B00901217 /* en_gingivitis.aac in Resources */,
+				CEEE4EFE23A0163B00901217 /* en_penecillin_g.aac in Resources */,
+				CEEE4EE323A0163B00901217 /* en_improper_usage.aac in Resources */,
+				CEEE4ED723A0163B00901217 /* en_levaquin.aac in Resources */,
+				CEEE4EEF23A0163B00901217 /* spa_infeccion_del_tracto_urinario.aac in Resources */,
 				16028DB2FE104729B1CA11BC /* rubicon-icon-font.ttf in Resources */,
+				CEEE4ECE23A0163B00901217 /* en_amoxicillin.aac in Resources */,
+				CEEE4F0323A0163B00901217 /* en_strep_throat.aac in Resources */,
+				CEEE4EFB23A0163B00901217 /* spa_fiebre_del_valle.aac in Resources */,
+				CEEE4F0223A0163B00901217 /* en_lyme_disease.aac in Resources */,
+				CEEE4EE723A0163B00901217 /* spa_titlevi.aac in Resources */,
+				CEEE4EF723A0163B00901217 /* spa_impetigo.aac in Resources */,
+				CEEE4F0523A0163B00901217 /* en_flucloxacillin.aac in Resources */,
+				CEEE4F0E23A0163B00901217 /* spa_uso_de_antibioticos_incorrecto.aac in Resources */,
+				CEEE4EE823A0163B00901217 /* spa_penicilina_g.aac in Resources */,
+				CEEE4EE423A0163B00901217 /* spa_teeth_gum.aac in Resources */,
+				CEEE4EEA23A0163B00901217 /* spa_faringitis_estreptococica.aac in Resources */,
+				CEEE4F1223A0163B00901217 /* en_ceftriaxone.aac in Resources */,
+				CEEE4EFF23A0163B00901217 /* en_ear_infection.aac in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

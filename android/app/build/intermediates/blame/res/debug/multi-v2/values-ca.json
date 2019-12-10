@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/474493e8c09c31d5c9e3fd4c8a30c11d/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "100",
+                        "endOffsets": "307"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5571",
+                        "endColumns": "104",
+                        "endOffsets": "5671"
+                    }
+                },
+                {
                     "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2",
@@ -86,23 +103,6 @@
                         "startOffsets": "5676",
                         "endColumns": "101",
                         "endOffsets": "5773"
-                    }
-                },
-                {
-                    "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/d5c190dd4ecebe4137e1c08539e48d3c/res/values-ca/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "207",
-                        "endColumns": "100",
-                        "endOffsets": "307"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5571",
-                        "endColumns": "104",
-                        "endOffsets": "5671"
                     }
                 }
             ]

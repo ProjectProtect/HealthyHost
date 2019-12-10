@@ -885,6 +885,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 raw en_amoxicillin
 raw en_azithromycin
+raw en_background
 raw en_ceftriaxone
 raw en_cephalexin
 raw en_chlamydia
@@ -913,6 +914,7 @@ raw en_questions_for_your_doctor
 raw en_respiratory_syncytial_virus_rsv
 raw en_strep_throat
 raw en_teeth_gum
+raw en_titlevi
 raw en_tooth_decay
 raw en_tooth_loss
 raw en_type_2_herpes
