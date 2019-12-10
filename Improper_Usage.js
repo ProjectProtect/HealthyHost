@@ -14,14 +14,14 @@ const { height } = Dimensions.get('window');
 
 export default class ImproperUsageScreen extends React.PureComponent {
 
-//creates audio player as state for whole component
-p: Player | null;
+  //creates audio player as state for whole component
+  p: Player | null;
 
-//an object that contains the settings necessary for the audio player to function properly
-playbackOptions = {
-  autoDestroy: false,
-  continuesToPlayInBackground: false
-};
+  //an object that contains the settings necessary for the audio player to function properly
+  playbackOptions = {
+    autoDestroy: false,
+    continuesToPlayInBackground: false
+  };
 
   static navigationOptions = () => ({
     title: 'Healthy Host',
@@ -46,17 +46,13 @@ playbackOptions = {
 
   //This funciton only applies to the "Hmong" language for now
   makeAudioButtons = () => {
-    //var string = I18n.locale;
-
-    //var n = string.localeCompare("hmn");
 
     Output = []
 
-    //if (n == 0) {
-    Output.push(<Button key={0} onPress={() => { alert("Coming Soon!", "Will play audio.") }} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Play</Text></Button>);
-    Output.push(<Button key={1} onPress={() => { alert("Coming Soon!", "Audio will pause.") }} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Pause</Text></Button>);
-    Output.push(<Button key={2} onPress={() => { alert("Coming Soon!", "Audio will stop.") }} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Stop</Text></Button>);
-    //}
+    Output.push(<Button key={0} onPress={() => { this.p.play() }} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Play</Text></Button>);
+    Output.push(<Button key={1} onPress={() => { this.p.pause() }} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Pause</Text></Button>);
+    Output.push(<Button key={2} onPress={() => { this.p.stop() }} style={{ backgroundColor: '#DCDCDC', alignSelf: "center", width: '25%', justifyContent: "center", margin: 10, borderRadius: 15 }}><Text style={{ color: 'black', fontSize: 20 }}>Stop</Text></Button>);
+
     return Output;
   };
 
@@ -80,11 +76,14 @@ playbackOptions = {
   }
 
   render() {
+    this.retrieveLanguage();
+
     //creates variable named "audio" and concatinates "string" with temporary modified version of the disease parameter
-    var audio = string + "_" + disease.toLowerCase().replace(/ /g, "_").normalize("NFD").replace(/[\u0300-\u036f]/g, "") + ".aac";
+    var audio = string + "_improper_usage.aac";
 
     //sets the state as a new audio player with the provided parameters
     this.p = new Player(audio, this.playbackOptions);
+
     return (
       <ScrollView style={{ flex: 1 }} contentContainerStyle={styles.scrollview} scrollEnabled={true} onContentSizeChange={this.onContentSizeChange}>
         <StatusBar barStyle="light-content" />

@@ -49,7 +49,6 @@ export default class TitleVIScreen extends React.PureComponent {
   };
 
   onContentSizeChange = (contentWidth, contentHeight) => {
-    console.log("contentHeight: " + contentHeight);
     this.setState({ screenHeight: contentHeight });
   };
 
@@ -75,8 +74,6 @@ export default class TitleVIScreen extends React.PureComponent {
 
     const scrollEnabled = this.state.screenHeight > height;
 
-    console.log("screenHeight: " + this.state.screenHeight);
-    console.log("height: " + height);
     return (
       <ScrollView style={{ flex: 1 }} contentContainerStyle={styles.scrollview} scrollEnabled={scrollEnabled} onContentSizeChange={this.onContentSizeChange}>
         <StatusBar barStyle="light-content" />
