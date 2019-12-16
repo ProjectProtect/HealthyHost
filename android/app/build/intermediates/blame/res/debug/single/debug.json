@@ -24,16 +24,20 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/e5630e10a46dbdd96ff0b1135ef07a70/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_teeth_gum.aac.flat",
-        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_teeth_gum.aac"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_cancer_oral.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_cancer_oral.aac"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_improper_usage.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_improper_usage.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_improper_usage.aac.flat",
-        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_improper_usage.aac"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_teeth_gum.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_teeth_gum.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_flucloxacilina.aac.flat",
@@ -68,6 +72,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_btn_check_material.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_metronidazole.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_metronidazole.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
@@ -76,28 +84,28 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -124,12 +132,12 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -168,12 +176,16 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/e5630e10a46dbdd96ff0b1135ef07a70/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_amoxicillin.aac.flat",
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_amoxicillin.aac"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_valley_fever.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_valley_fever.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -288,6 +300,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_titlevi.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_titlevi.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_tooth_decay.aac.flat",
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_tooth_decay.aac"
     },
@@ -328,24 +344,28 @@
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_ear_infection.aac"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/2a6751713e5eac925bf0e758d9b099a9/res/anim/catalyst_push_up_in.xml"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_type_2_herpes.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_type_2_herpes.aac"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/2a6751713e5eac925bf0e758d9b099a9/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
@@ -360,12 +380,12 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
@@ -384,20 +404,20 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_respiratory_syncytial_virus_rsv.aac.flat",
-        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_respiratory_syncytial_virus_rsv.aac"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_azitromicina.aac.flat",
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_azitromicina.aac"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_respiratory_syncytial_virus_rsv.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_respiratory_syncytial_virus_rsv.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -412,12 +432,16 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/2a6751713e5eac925bf0e758d9b099a9/res/layout/redbox_view.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/layout/notification_action.xml"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_impetigo.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_impetigo.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -432,12 +456,16 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/e5630e10a46dbdd96ff0b1135ef07a70/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_strep_throat.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_strep_throat.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_levaquin.aac.flat",
@@ -464,12 +492,12 @@
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_good_hygiene.aac"
     },
     {
-        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_enfermedad_de_lyme.aac.flat",
-        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_enfermedad_de_lyme.aac"
-    },
-    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_enfermedad_de_lyme.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_enfermedad_de_lyme.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -564,6 +592,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color-v23/abc_tint_spinner.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_respiratory_syncytial_virus_rsv.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_respiratory_syncytial_virus_rsv.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
@@ -586,6 +618,10 @@
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_periodontitis.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_periodontitis.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -668,6 +704,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_lyme_disease.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_lyme_disease.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
@@ -716,6 +756,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_erythromycin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_erythromycin.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_mononucleosis.aac.flat",
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_mononucleosis.aac"
     },
@@ -734,6 +778,10 @@
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_cephalexin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_cephalexin.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
@@ -832,8 +880,16 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_tooth_decay.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_tooth_decay.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_tooth_loss.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_tooth_loss.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1112,6 +1168,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_penecillin_g.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_penecillin_g.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1212,6 +1272,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_azithromycin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_azithromycin.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1268,6 +1332,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/anim/abc_popup_exit.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_mononucleosis.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_mononucleosis.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_en_cephalexin.aac.flat",
         "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/en_cephalexin.aac"
     },
@@ -1280,8 +1348,16 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_flucloxacillin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_flucloxacillin.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_ofloxacin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_ofloxacin.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1360,12 +1436,24 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_teeth_gum.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_teeth_gum.aac"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_background.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_background.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_lus_nug_rau_koj_tus_kho_mob.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_lus_nug_rau_koj_tus_kho_mob.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -1384,8 +1472,16 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/e5630e10a46dbdd96ff0b1135ef07a70/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_necrotizing_fasciitis.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_necrotizing_fasciitis.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_mastitis.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_mastitis.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
@@ -1712,6 +1808,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_h_pylori.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_h_pylori.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color-v23/abc_tint_seek_thumb.xml"
     },
@@ -1744,6 +1844,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_ear_infection.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_ear_infection.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -1762,6 +1866,10 @@
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_often_dentist.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_often_dentist.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
@@ -1790,6 +1898,10 @@
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_doxycycline.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_doxycycline.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1912,6 +2024,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_amoxicillin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_amoxicillin.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
@@ -1920,12 +2036,20 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/layout-v21/notification_template_icon_group.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_chlamydia.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_chlamydia.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_levaquin.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_levaquin.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -1972,6 +2096,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_good_hygiene.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_good_hygiene.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -1992,6 +2120,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_gingivitis.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_gingivitis.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -2002,6 +2134,14 @@
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_urinary_tract_infection.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_urinary_tract_infection.aac"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_proper_usage.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_proper_usage.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
@@ -2032,6 +2172,10 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_improper_usage.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_improper_usage.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color-v23/abc_tint_switch_track.xml"
     },
@@ -2044,6 +2188,14 @@
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_oral_cancer.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_oral_cancer.aac"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_spa_background.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/spa_background.aac"
+    },
+    {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color/abc_tint_switch_track.xml"
     },
@@ -2054,6 +2206,10 @@
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
         "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/ce716b4109cb64d20438bd4eb0883ea7/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/raw_hmn_ceftriaxone.aac.flat",
+        "source": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/src/main/res/raw/hmn_ceftriaxone.aac"
     },
     {
         "merged": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
