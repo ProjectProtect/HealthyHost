@@ -4,23 +4,6 @@
             "outputFile": "/Users/1tbhd/Documents/GitHub/HealthyHost/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
-                    "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/d5c190dd4ecebe4137e1c08539e48d3c/res/values-de/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "207",
-                        "endColumns": "103",
-                        "endOffsets": "310"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5683",
-                        "endColumns": "107",
-                        "endOffsets": "5786"
-                    }
-                },
-                {
                     "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/85c24ec0da4bea20a59e5b2cf1aa2b24/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2",
@@ -69,6 +52,23 @@
                         "startOffsets": "5791",
                         "endColumns": "104",
                         "endOffsets": "5891"
+                    }
+                },
+                {
+                    "source": "/Users/1tbhd/.gradle/caches/transforms-2/files-2.1/474493e8c09c31d5c9e3fd4c8a30c11d/res/values-de/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "103",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5683",
+                        "endColumns": "107",
+                        "endOffsets": "5786"
                     }
                 },
                 {

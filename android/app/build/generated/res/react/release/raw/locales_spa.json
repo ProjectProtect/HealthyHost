@@ -71,7 +71,7 @@
       "6": "Mononucleosis",
       "7": "Fascitis Necrotizante",
       "8": "Virus Sincicial Respiratorio (VSR)",
-      "9": "Faringitis Estreptocócica ",
+      "9": "Faringitis Estreptocócica",
       "10": "Herpes Tipo 2",
       "11": "Infección del Tracto Urinario",
       "12": "Fiebre del Valle"
@@ -250,7 +250,7 @@
       "Add_Info": "https://www.mayoclinic.org/diseases-conditions/respiratory-syncytial-virus/symptoms-causes/syc-20353098"
     },
     "9": {
-      "Name": "Faringitis Estreptocócica ",
+      "Name": "Faringitis Estreptocócica",
       "Description": "La faringitis estreptocócica es una infección bacteriana que afecta la garganta y las amígdalas causando un dolor de garganta severo y puede causar fiebre.",
       "Symptoms": "Dolor de garganta, agrandamiento de los ganglios linfáticos, dolor al pasar, hinchazón de las amígdalas, fiebre, escalofríos, malestar.",
       "Treatment": "Se trata con antibióticos.",
